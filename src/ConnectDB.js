@@ -1,4 +1,4 @@
-
+import requests from 'requests';
 
 var request = require("request");
 
