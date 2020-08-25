@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-
+import "./Connect"
 
 export default function App() {
   return (
@@ -8,6 +8,7 @@ export default function App() {
       <h1>Hello StackBlitz!</h1>
       <p></p>
     </div>
+
   );
 }
 
