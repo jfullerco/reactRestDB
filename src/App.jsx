@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import "./Connect"
+import "./ConnectDB";
 
 export default function App() {
   return (
